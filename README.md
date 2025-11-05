@@ -4,7 +4,7 @@
 
 Oii! Sou o Lucas, também conhecido como Sleepy.  
 Gosto de transformar ideias em interfaces bonitas, intuitivas e gostosas de usar.  
-Atualmente trabalhando no desenvolvimento do site da **PortSafe**, uma empresa de monitoramento e controle de acesso, cuidando da parte de **Frontend**, **UI/UX** e manutenção contínua.
+Atualmente trabalhando no desenvolvimento do site da **PortSafe**, uma empresa de monitoramento e controle de acesso, cuidando da parte como **FullStack**, **UI/UX** e manutenção contínua.
 
 ---
 
